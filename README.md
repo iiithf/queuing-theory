@@ -1,2 +1,6 @@
-# queuing-theory
-Queueing theory is the mathematical study of waiting lines, or queues.
+Queuing theory is the mathematical study of waiting lines, or queues.
+
+**Course**: [Advanced Computer Networks], Monsoon 2020<br>
+**Taught by**: Prof. Sujit Gujar
+
+[Advanced Computer Networks]: https://github.com/iiithf/advanced-computer-networks
